@@ -2,28 +2,28 @@
 [
 	{
 		"key": "rss",
-		"link": "http://www.nature.com/srep/newsfeeds.html",
+		"link": "http://www.example.com/feeds.html",
 		"title": "RSS Feed",
 		"text": "RSS feed",
 		"tip": "Click here to subscribe to our RSS feed"
 	},
 	{
 		"key": "twitter",
-		"link": "http://twitter.com/SciReports",
+		"link": "http://twitter.com/example",
 		"title": "Follow us on Twitter",
 		"text": "Follow us on Twitter",
 		"tip": "Click here to follow us on Twitter"
 	},
 	{
 		"key": "facebook",
-		"link": "http://www.facebook.com/scientificreports",
+		"link": "http://www.facebook.com/example",
 		"title": "Follow us on Facebook",
 		"text": "Follow us on Facebook",
 		"tip": "Click here to follow us on Facebook"
 	},
 	{
 		"key": "email",
-		"link": "http://www.nature.com/srep/alerts/index.html",
+		"link": "http://www.example.com/alerts/",
 		"title": "E-alert sign up",
 		"text": "E-alert sign up",
 		"tip": "Click here to sign up to E-alerts"
