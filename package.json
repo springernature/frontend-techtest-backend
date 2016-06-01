@@ -1,0 +1,28 @@
+{
+  "name": "frontend-techtest-backend",
+  "version": "1.0.0",
+  "description": "Backend Shunter application for the SpringerNature Frontend Tech Test",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/springernature/frontend-techtest-backend.git"
+  },
+  "engines": {
+      "node": ">=4.4.3"
+  },
+  "author": "Alex Kilgour",
+  "contributors": [
+    "Alex Kilgour"
+  ],
+  "license": "LGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/springernature/frontend-techtest-backend/issues"
+  },
+  "homepage": "https://github.com/springernature/frontend-techtest-backend#readme",
+  "dependencies": {
+    "express": "~4.13"
+},
+  "scripts": {
+    "start": "node app.js"
+  }
+}
