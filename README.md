@@ -1,7 +1,7 @@
 
-# Example Shunter Application Back End (Node.js, Express)
+# Example Shunter Application Back End
 
-A Node.js-based back end for the [Springer Nature Frontend Tech test](https://github.com/springernature/frontend-techtest).
+A Node.js-based back end (using express) for the [Springer Nature Frontend Tech test](https://github.com/springernature/frontend-techtest).
 
 
 ## Requirements
