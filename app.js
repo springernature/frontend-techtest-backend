@@ -5,6 +5,7 @@ var port = process.env.PORT || 5000;
 var express = require('express');
 
 var app = express();
+app.set('etag', false);
 
 /*
  * MIDDLEWARE
